@@ -17,3 +17,5 @@ In CursorFX:
 8. Enjoy
 
 ![](https://i.imgur.com/p9vb3NL.png)
+
+Cursro image edited from screenshots at the MCbx Old Computer Collection: https://oldcomputer.info/gallery.php?spgmGal=Museum/PC/HeadStart_Explorer&spgmPic
