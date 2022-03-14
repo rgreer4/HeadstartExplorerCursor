@@ -16,4 +16,4 @@ In CursorFX:
 7. Above the inner window, click File->Save and Apply
 8. Enjoy
 
-(https://i.imgur.com/sBkqBmn.png)
+![](https://i.imgur.com/p9vb3NL.png)
