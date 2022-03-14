@@ -15,3 +15,5 @@ In CursorFX:
 6. It may start to animate and be square, change "Frames" to "0" to fix it.
 7. Above the inner window, click File->Save and Apply
 8. Enjoy
+
+(https://i.imgur.com/sBkqBmn.png)
