@@ -12,6 +12,6 @@ In CursorFX:
 3. Standard Select
 4. Import Graphics
 5. (pick the image in this repo)
-6. It may to animate, change Frames to "0" to fix it.
+6. It may start to animate and be square, change "Frames" to "0" to fix it.
 7. Above the inner window, click File->Save and Apply
 8. Enjoy
